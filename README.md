@@ -11,10 +11,10 @@ Due to hardware and display constraints, the project computes one dot-product of
 The final result is constrained to values 0–9 and is displayed on the FPGA’s seven-segment display.
 
 ## Tools and Platform
-FPGA Board: Basys-3 (Artix-7 XC7A35T)
-Software: Xilinx Vivado Design Suite
-Design Method: Vivado IP Integrator
-Language: Verilog HDL
+- FPGA Board: Basys-3 (Artix-7 XC7A35T)
+- Software: Xilinx Vivado Design Suite
+- Design Method: Vivado IP Integrator
+- Language: Verilog HDL
 
 ## Design Architecture
 
