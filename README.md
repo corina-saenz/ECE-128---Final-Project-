@@ -6,7 +6,8 @@ This project implements a 2×2 matrix multiplier (single dot-product) using Xili
 The project was completed as part of an FPGA laboratory course and emphasizes IP-based design methodology, hardware verification, and efficient resource usage.
 
 ## Mathematical Operation
-Due to hardware and display constraints, the project computes one dot-product of a 2×2 matrix multiplication: 𝑐 = 𝑎0 × 𝑏0 + 𝑎1 × 𝑏1​
+Due to hardware and display constraints, the project computes one dot-product of a 2×2 matrix multiplication: 𝑐 = 𝑎0 × 𝑏0 + 𝑎1 × 𝑏1. ​
+
 The final result is constrained to values 0–9 and is displayed on the FPGA’s seven-segment display.
 
 ## Tools and Platform
