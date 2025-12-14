@@ -29,11 +29,12 @@ The datapath is implemented using Vivado IP cores:
 The design behaves as a combinational arithmetic datapath, with internal pipelining handled by the IP cores.
 
 ## Input Mapping (Basys-3 Switches)
-- Signal	      Switches
-- a0	          sw[3:0]
-- a1	          sw[7:4]
-- b0	          sw[11:8]
-- b1	          sw[15:12]
+| Signal | Switch Range |
+|--------|--------------|
+| a0     | sw[3:0]      | 
+| a1     | sw[7:4]      | 
+| b0     | sw[11:8]     |
+| b1     | sw[15:12]    | 
 
 The output c is shown on the rightmost seven-segment digit.
 
