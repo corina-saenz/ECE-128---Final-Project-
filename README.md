@@ -1,5 +1,4 @@
-# ECE-128---Final-Project-
-# 2×2 Matrix Multiplier Using Vivado IP (Basys-3 FPGA)
+# ECE-128-Final-Project-2×2 Matrix Multiplier Using Vivado IP (Basys-3 FPGA)
 
 ## Overview
 This project implements a 2×2 matrix multiplier (single dot-product) using Xilinx Vivado IP cores on a Basys-3 FPGA (XC7A35T). The design computes one element of a matrix multiplication using hardware-optimized multiplier and adder IP blocks, displays the result on a seven-segment display, and verifies correctness through both simulation and hardware testing.
